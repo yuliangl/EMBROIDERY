@@ -1,4 +1,5 @@
 a = 1 
+b = 1
 name = input("please write your name:")
 tele = input("please tell me your number ")
 
