@@ -1,3 +1,4 @@
+a = 1 
 name = input("please write your name:")
 tele = input("please tell me your number ")
 
